@@ -1,2 +1,2 @@
-# dss-ML-projects
-machine learning projects
+# dss-Deep Learning projects
+Fire Image Detection
